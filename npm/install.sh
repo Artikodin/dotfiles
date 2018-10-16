@@ -13,12 +13,8 @@ fi
 
 packages=(
   imageoptim-cli
-  nodemon
-  stylestats
   svgo
   eslint
-  yarn
-  yo
 )
 
 for package in ${packages[@]}; do
