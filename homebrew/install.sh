@@ -67,6 +67,7 @@ brew install webkit2png
 brew install imagemagick --with-webp
 brew install ssh-copy-id
 brew install mackup
+brew install yarn
 
 # Updated python/pip
 brew install python
