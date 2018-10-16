@@ -10,7 +10,7 @@ This repository serves me to setup and maintain my Mac. It takes the effort out 
 2. [Generating SSH Keys](http://help.github.com/articles/generating-ssh-keys/)
 3. Run `install.sh` to start the installation
 ```shell
- sh -c "$(curl -fsSL https://raw.githubusercontent.com/spartDev/dotfiles/master/install.sh)"
+ sh -c "$(curl -fsSL https://raw.githubusercontent.com/Artikodin/dotfiles/master/install.sh)"
 ```
 4. Restart your computer
 
